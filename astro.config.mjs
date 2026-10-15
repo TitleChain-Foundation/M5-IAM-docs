@@ -19,6 +19,7 @@ export default defineConfig({
         { label: "Your M5POD", items: [{ autogenerate: { directory: "pod" } }] },
         { label: "Accounts", items: [{ autogenerate: { directory: "accounts" } }] },
         { label: "Certificates and registry", items: [{ autogenerate: { directory: "certificates" } }] },
+        { label: "Security", items: [{ autogenerate: { directory: "security" } }] },
         { label: "Standards", items: [{ autogenerate: { directory: "standards" } }] },
         { label: "Developers", items: [{ autogenerate: { directory: "developers" } }] },
         { label: "Brand and rights", items: [{ autogenerate: { directory: "brand" } }] },
