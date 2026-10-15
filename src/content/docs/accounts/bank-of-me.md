@@ -13,7 +13,7 @@ This page shows what the account gives you and how its folders are organized. Re
 
 ## What you get
 
-- A **reusable ID** for the year.
+- A **reusable ID**: verify once and reuse it everywhere. During the year your record is re-checked against its sources and monitored, so its status stays current.
 - Your own **m5bank member block** for your private agent.
 - A **registered M5POD** vault and product licences.
 - An account on the **M5 Matrix server**, where M5 reaches members directly.
