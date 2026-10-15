@@ -26,3 +26,5 @@ sidebar:
 An entity account belongs to the entity, not to a person. Each person who operates it needs their own Bank of Me account first, and holds a role in the entity. People can come and go; the account stays with the entity.
 
 See each account for a sample of what it includes.
+
+Every registered account includes the M5 protocols: see [Protocols included](/M5-IAM-docs/accounts/protocols/). To see how one person holds several accounts, read [One human, many accounts](/M5-IAM-docs/accounts/one-human-many-accounts/); for the path from a free IAM to a verified sovereign ID, read [From IAM to sovereign ID](/M5-IAM-docs/accounts/from-iam-to-sovereign-id/).

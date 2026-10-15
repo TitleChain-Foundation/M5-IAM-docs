@@ -23,3 +23,5 @@ You create it by attesting to your humanity in one short statement. That gives y
 - It cannot authorize a payment, signature, title transfer or agent action.
 
 Every registered account (Bank of Me through Bank of Government) is built on an IAM. See [Accounts](/M5-IAM-docs/accounts/overview/).
+
+Later, an approved agency can verify your IAM and you can move to a sovereign ID without starting over. See [From IAM to sovereign ID](/M5-IAM-docs/accounts/from-iam-to-sovereign-id/).
