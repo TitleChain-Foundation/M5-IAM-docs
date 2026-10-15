@@ -1,0 +1,16 @@
+{
+  "name": "m5-iam-docs",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "description": "Documentation for M5 IAM, the forever-free starting point for every person, published by TitleChain Foundation.",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/starlight": "0.42.6",
+    "astro": "7.3.8"
+  }
+}
