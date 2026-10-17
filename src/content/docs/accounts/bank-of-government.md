@@ -9,7 +9,7 @@ sidebar:
 This page shows what the account gives you and how its folders are organized. Registered accounts are not open yet; prices other than Bank of Me are pending launch.
 :::
 
-**For:** a public body · **SKU:** `M5BKOG-005` · **$500 a year** (pending launch), name $5 a year with the first year free.
+**For:** a public body · **SKU:** `M5BKOG-005` · **from $500 a year** (pending launch; setup and support by custom quote), name $5 a year with the first year free.
 
 ## How it is organized
 

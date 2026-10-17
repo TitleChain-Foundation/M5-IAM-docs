@@ -7,9 +7,10 @@ sidebar:
 
 Unzip your M5POD and open **Open M5POD.html** in any browser. It shows:
 
+- the **M5 Master Checklist**: every certificate you hold and what needs attention (see [M5 Master Checklist](/M5-IAM-docs/pod/checklist/));
 - your **identity**: your IAM, active and human attested;
 - **your accounts**: Bank of Me, ready to activate, with its life areas;
-- **entity accounts**: Bank of Us and Bank of Business, with their business areas;
+- **entity accounts**: Bank of Us and Bank of Business, with their business areas and the protocols each registered account includes;
 - **launch and standards**: the open standards embedded in the M5Protocol.
 
 The page loads nothing from the internet and sends nothing anywhere. It shows your folders as they were when you downloaded the pod.

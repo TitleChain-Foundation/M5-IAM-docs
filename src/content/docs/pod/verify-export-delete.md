@@ -2,7 +2,7 @@
 title: Check, export or delete
 description: Confirm nothing changed, keep a copy, or remove your pod.
 sidebar:
-  order: 4
+  order: 5
 ---
 
 ## Check that nothing changed
