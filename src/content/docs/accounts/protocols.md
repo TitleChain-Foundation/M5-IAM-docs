@@ -5,7 +5,7 @@ sidebar:
   order: 7
 ---
 
-Every registered account (Bank of Me through Bank of Government) comes with these protocols, under the protection of its M5POD. The free IAM does not include them: it is the human root before verification.
+Every registered account (Bank of Me through Bank of Government) comes with these protocols, under the protection of its M5POD. The free IAM includes one of them: you **accept the CYRUS Protocol when you activate**, because it is what protects you. The others come with registration.
 
 | Protocol | What it does for the account |
 | --- | --- |
@@ -15,12 +15,12 @@ Every registered account (Bank of Me through Bank of Government) comes with thes
 | **M5Scan** | Checks a claim against several independent sources before it is accepted |
 | **M5Index** | Public commons index, including published rates by ZIP code for credentialed providers |
 | **M5Pay** | Routes payments and records each one as a three-part Ricardian receipt |
-| **CYRUS Protocol** | Guards the Sovereign Purpose Trust and the IP in it against capture |
+| **CYRUS Protocol** | Protects every holder's basic and sovereign rights, grants the right to refuse consent, and guards the Sovereign Purpose Trust and its IP against capture. Accepted at IAM. |
 | **TitleChain Registry** | Registers titles, certificates and commitments, holding only what must be public |
 
 | Account | Protocols |
 | --- | --- |
-| IAM (M0) | Not included; your local M5POD and its integrity check only |
+| IAM (M0) | CYRUS Protocol, accepted at activation; right to refuse consent selected, not activated. The others are not included. |
 | Bank of Me (M1) | All of the above |
 | Bank of Us (M2) | All of the above |
 | Bank of Business (M3) | All of the above |
